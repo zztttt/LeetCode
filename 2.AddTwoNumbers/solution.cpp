@@ -9,9 +9,9 @@ using namespace std;
  * Definition for singly-linked list.
  */
 struct ListNode {
-    int val;
+	int val;
 	ListNode *next;
-    ListNode(int x) : val(x), next(NULL) {}
+	ListNode(int x) : val(x), next(NULL) {}
 };
 static ListNode* l1 = NULL;
 static ListNode* l2 = NULL;
