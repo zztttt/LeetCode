@@ -8,13 +8,13 @@ using namespace std;
 /**
  * Definition for singly-linked list.
  */
-  struct ListNode {
-      int val;
-	  ListNode *next;
-      ListNode(int x) : val(x), next(NULL) {}
-  };
-  static ListNode* l1 = NULL;
-  static ListNode* l2 = NULL;
+struct ListNode {
+    int val;
+	ListNode *next;
+    ListNode(int x) : val(x), next(NULL) {}
+};
+static ListNode* l1 = NULL;
+static ListNode* l2 = NULL;
 
 //naive implemention, Runtime: 35 ms, faster than 95.93% of C++ online submissions for Add Two Numbers.
 class Solution {
