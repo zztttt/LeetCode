@@ -17,7 +17,7 @@ nums2 = [3, 4]
 The median is (2 + 3)/2 = 2.5
 ```
 
-Solution: recursive approach
+Solution: recursive approach  
 If we understand the use of median for dividing, we are very close to the answer.
 
 First let's cut A into two parts at a random position i:
