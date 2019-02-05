@@ -8,6 +8,7 @@
 
 using namespace std;
 
+//naive implementation
 class Solution {
 public:
 	stack<int> s;

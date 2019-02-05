@@ -66,7 +66,7 @@ public:
 	}
 };
 
-//naive implemention, 480ms, faster than 2.20% submission
+//naive implementation, 480ms, faster than 2.20% submission
 class Solution1 {
 public:
 	int lengthOfLongestSubstring(string s) {
@@ -95,9 +95,7 @@ public:
 	}
 };
 
-/*
 
- */
  /* Sliding Window
   * define a mapping of the characters to its index, then we can skip the characters immediately when we found a repeated character.
   * 16ms, faster than 92.99% submission

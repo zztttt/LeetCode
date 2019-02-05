@@ -16,7 +16,7 @@ struct ListNode {
 static ListNode* l1 = NULL;
 static ListNode* l2 = NULL;
 
-//naive implemention, Runtime: 35 ms, faster than 95.93% of C++ online submissions for Add Two Numbers.
+//naive implementation, Runtime: 35 ms, faster than 95.93% of C++ online submissions for Add Two Numbers.
 class Solution {
 public:
 	ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {

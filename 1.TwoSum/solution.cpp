@@ -6,7 +6,7 @@
 
 using namespace std;
 
-//naive implemention
+//naive implementation
 class Solution {
 public:
 	vector<int> twoSum(vector<int>& nums, int target) {
@@ -77,7 +77,7 @@ public:
 
 		/*unordered_map<int, int>::iterator it;
 		  init the first iterator
-		  unordered_map<int, int>::iterator this_it = m.find(nums[0]);//do not use m.begin() because leetcode is too SHABI
+		  unordered_map<int, int>::iterator this_it = m.find(nums[0]);//do not use m.begin() because leetcode is SB
 		  unordered_map<int, int>::iterator this_it = m.find(nums[0]);
 		*/
 		for (int i = 0; i < vsize; i++) {

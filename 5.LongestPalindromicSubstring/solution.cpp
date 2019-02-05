@@ -8,7 +8,7 @@
 
 using namespace std;
 
-//naive implemention. Brute force. Runtime: 2444 ms, faster than 3.20% of C++ online submission
+//naive implementation. Brute force. Runtime: 2444 ms, faster than 3.20% of C++ online submission
 //Memory Usage: 766 KB, less than 96.69% of C++ online submissions
 class Solution {
 public:
