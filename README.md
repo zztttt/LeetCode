@@ -9,5 +9,5 @@
 [91.DecodeWays](https://github.com/zztttt/LeetCode/tree/master/091.DecodeWays)
 
 ## Greedy Algorithm
-[55.JumpGame](https://github.com/zztttt/LeetCode/tree/master/055.JumpGame)
-[94.BinaryTreeInorderTraversal](https://github.com/zztttt/LeetCode/tree/master/094.BinaryTreeinorderTraversal)
+[55.JumpGame](https://github.com/zztttt/LeetCode/tree/master/055.JumpGame)  
+[94.BinaryTreeInorderTraversal](https://github.com/zztttt/LeetCode/tree/master/094.BinaryTreInorderTraversal)
