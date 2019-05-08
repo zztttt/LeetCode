@@ -6,6 +6,7 @@
 [42.Trapping Rain Water](https://github.com/zztttt/LeetCode/tree/master/042.Trapping%20Rain%20Water)  
 [44.Wildcard Matching](https://github.com/zztttt/LeetCode/tree/master/044.%20Wildcard%20Matching)  
 [62.Unique Paths](https://github.com/zztttt/LeetCode/tree/master/062.Unique%20Paths)  
+[72. Edit Distance](https://github.com/zztttt/LeetCode/tree/master/072.%20Edit%20Distance)  
 [91.DecodeWays](https://github.com/zztttt/LeetCode/tree/master/091.DecodeWays)
 
 ## Greedy Algorithm
