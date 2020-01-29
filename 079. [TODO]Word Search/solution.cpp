@@ -1,37 +1,31 @@
 class Solution {
 public:
-    int row, col;
-    bool exist(vector<vector<char>>& board, string word) {
-        if(board.size() == 0 && word.size() != 0) return false;
-        row = board.size();col = board[0].size();
-        int wordPos = 0;
+     bool exist(vector<vector<char>>& board, string word) {
+        if(word.length() == 0) return false;
         
-        vector<vector<bool>> visited = vector<vector<bool>>(row, vector<bool>(col, false));
-        for(int i = 0; i < row; ++i){
-            for(int j = 0; j < col; ++j){
-                if(dfsFind(board, visited, word, i, j, wordPos))
+        for(int i = 0; i < board.size(); i++){
+            for(int j = 0; j < board[0].size(); j++){
+                if(board[i][j] == word[0] && dfs(board,word,0,i,j))
                     return true;
             }
         }
         return false;
     }
     
-    bool dfsFind(vector<vector<char>> board, vector<vector<bool>>& visited, string word, int i, int j, int wordPos){
-        if(wordPos == word.size())
+    bool dfs(vector<vector<char>>& grid, string& word, int index, int i, int j){
+        if(index == word.length())
             return true;
-        if(wordPos > word.size())
+        if(i < 0 || i>=grid.size() || j < 0 || j >=grid[0].size() || grid[i][j] != word[index])
             return false;
-        if(i < 0 || j < 0 || i > row - 1 || j > col - 1
-          || board[i][j] != word[wordPos]
-          || visited[i][j])
-            return false;
-        visited[i][j] = true;
         
-        bool ret = dfsFind(board, visited, word, i - 1, j, wordPos + 1)
-                    || dfsFind(board, visited, word, i + 1, j, wordPos + 1)
-                    || dfsFind(board, visited, word, i, j - 1, wordPos + 1)
-                    || dfsFind(board, visited, word, i, j + 1, wordPos + 1);
-        visited[i][j] = false;
-        return ret;
-    }
+        char temp = grid[i][j];
+        grid[i][j] = ' ';
+        bool res = (dfs(grid,word,index+1,i+1,j) ||
+                    dfs(grid,word,index+1,i-1,j) ||
+                    dfs(grid,word,index+1,i,j+1) ||
+                    dfs(grid,word,index+1,i,j-1) );
+        
+        grid[i][j] = temp;
+        return res;
+        }
 };
