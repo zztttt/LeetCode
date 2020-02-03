@@ -22,7 +22,7 @@ public:
             if(isPalindrome(tmp)){
                 cur.push_back(tmp);
                 // s[i + 1, len - 1]
-                partition(ret, cur, s.substr(i + 1, len - i));
+                partition(ret, cur, s.substr(i + 1, len - i - 1));
                 // backtrace
                 cur.pop_back();
             }
