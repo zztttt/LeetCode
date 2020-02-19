@@ -3,7 +3,7 @@ A robot is located at the top-left corner of a m x n grid (marked 'Start' in the
 The robot can only move either down or right at any point in time. The robot is trying to reach the bottom-right corner of the grid (marked 'Finish' in the diagram below).
 
 How many possible unique paths are there?  
-![](./pic/1.png)  
+![](https://assets.leetcode.com/uploads/2018/10/22/robot_maze.png)  
 Example:
 ```
 Input: m = 3, n = 2
