@@ -4,15 +4,7 @@ public:
     map<int, int> m;
     FirstUnique(vector<int>& v) {
         for(int i: v){
-            map<int, int>::iterator it = m.find(i);
-            if(it == m.end()){
-                // unique
-                uniques.push_back(i);
-                m[i] = 1;
-            }else{
-                // duplicate
-                m[i]++;
-            }
+            add(i);
         }
     }
     
