@@ -110,7 +110,7 @@
 [0102.BinaryTreeLevelOrderTraversal](https://github.com/zztttt/LeetCode/tree/master/0102.%20Binary%20Tree%20Level%20Order%20Traversal)  
 [0103.BinaryTreeZiazagLevelOrderTraveral](https://github.com/zztttt/LeetCode/tree/master/0103.%20Binary%20Tree%20Zigzag%20Level%20Order%20Traversal)  
 [0104.MaximumDepthofBinaryTree](https://github.com/zztttt/LeetCode/tree/master/0104.%20Maximum%20Depth%20of%20Binary%20Tree)  
-[0[0TODO]105. Construct Binary Tree from Preorder and Inorder Traversal]()  
+[0105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/zztttt/LeetCode/tree/master/0105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal)  
 [0108. Convert Sorted Array to Binary Search Tree](https://github.com/zztttt/LeetCode/tree/master/0108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree)  
 [0116. Populating Next Right Pointers in Each Node](https://github.com/zztttt/LeetCode/tree/master/0116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node)  
 [0124. Binary Tree Maximum Path Sum](https://github.com/zztttt/LeetCode/tree/master/0124.%20Binary%20Tree%20Maximum%20Path%20Sum)  
