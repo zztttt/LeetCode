@@ -67,7 +67,8 @@
 [0283. Move Zeroes](https://github.com/zztttt/LeetCode/tree/master/0283.%20Move%20Zeroes)  
 
 ## Two Points
-[0019.RemoveNthNodeFromEndOfList](https://github.com/zztttt/LeetCode/tree/master/0019.RemoveNthNodeFromEndOfList)
+[0019.RemoveNthNodeFromEndOfList](https://github.com/zztttt/LeetCode/tree/master/0019.RemoveNthNodeFromEndOfList)  
+[0658.Find K Closest Elements](https://github.com/zztttt/LeetCode/tree/master/0658.Find%20K%20Closest%20Elements)
 
 ## N-sum
 [0001.TwoSum](https://github.com/zztttt/LeetCode/tree/master/0001.TwoSum)
