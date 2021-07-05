@@ -49,8 +49,9 @@
 [0017.LetterCombinationOfAPhoneNumber](https://github.com/zztttt/LeetCode/tree/master/0017.LetterCombinationOfAPhoneNumber)  
 [0022. Generate Parentheses](https://github.com/zztttt/LeetCode/tree/master/0022.%20Generate%20Parentheses)  
 [0046. Permutations](https://github.com/zztttt/LeetCode/tree/master/0046.%20Permutations)  
-[0078. Subsets](https://github.com/zztttt/LeetCode/tree/master/0078.%20Subsets)
+[0078. Subsets](https://github.com/zztttt/LeetCode/tree/master/0078.%20Subsets)  
 [0131. Palindrome Partitioning](https://github.com/zztttt/LeetCode/tree/master/0131.%20Palindrome%20Partitioning)  
+[0089. Gray Code](https://github.com/zztttt/LeetCode/tree/master/0089.%20Gray%20Code)
 
 ## Sort
 [0004.medianOfSortedArray](https://github.com/zztttt/LeetCode/tree/master/0004.MedianOfTwoSortedArrays)  
