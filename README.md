@@ -43,7 +43,7 @@
 [0050. Pow(x, n)](https://github.com/zztttt/LeetCode/tree/master/0050.%20Pow(x%2C%20n))  
 [0069. Sqrt(x)](https://github.com/zztttt/LeetCode/tree/master/0069.%20Sqrt(x))  
 [0162. Find Peak Element](https://github.com/zztttt/LeetCode/tree/master/0162.%20Find%20Peak%20Element)  
-[TODO0235. Lowest Common Ancestor of a Binary Search Tree]()  
+TODO[0235. Lowest Common Ancestor of a Binary Search Tree]()  
 [0240. Search a 2D Matrix II](https://github.com/zztttt/LeetCode/tree/master/0240.%20Search%20a%202D%20Matrix%20II)
 
 ## Back Trace
@@ -86,7 +86,7 @@
 [0019.RemoveNthNodeFromEndOfList](https://github.com/zztttt/LeetCode/tree/master/0019.RemoveNthNodeFromEndOfList)  
 [0021. Merge Two Sorted Lists](https://github.com/zztttt/LeetCode/tree/master/0021.%20Merge%20Two%20Sorted%20Lists)  
 [0023. Merge k Sorted Lists](https://github.com/zztttt/LeetCode/tree/master/0023.%20Merge%20k%20Sorted%20Lists)  
-[0todo061. Rotate List]()  
+TODO[0061. Rotate List]()  
 [0138. Copy List with Random Pointer](https://github.com/zztttt/LeetCode/tree/master/0138.%20Copy%20List%20with%20Random%20Pointer)  
 [0141. Linked List Cycle](https://github.com/zztttt/LeetCode/tree/master/0141.%20Linked%20List%20Cycle)  
 [0148. Sort List](https://github.com/zztttt/LeetCode/tree/master/0148.%20Sort%20List)  
