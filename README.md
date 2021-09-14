@@ -1,5 +1,3 @@
-# LeetCode
-
 ## Dynamic Programming
 [0005.LongestPalindromicSubstring](https://github.com/zztttt/LeetCode/tree/master/0005.LongestPalindromicSubstring)  
 [0011.ContainerWithMostWater](https://github.com/zztttt/LeetCode/tree/master/0011.ContainerWithMostWater)  
