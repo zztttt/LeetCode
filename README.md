@@ -65,6 +65,7 @@ TODO[0235. Lowest Common Ancestor of a Binary Search Tree]()
 [0026. Remove Duplicates from Sorted Array](https://github.com/zztttt/LeetCode/tree/master/0026.%20Remove%20Duplicates%20from%20Sorted%20Array)  
 [0073. Set Matrix Zeroes](https://github.com/zztttt/LeetCode/tree/master/0073.%20Set%20Matrix%20Zeroes)  
 [0283. Move Zeroes](https://github.com/zztttt/LeetCode/tree/master/0283.%20Move%20Zeroes)  
+[0442. Find All Duplicates in an Array](https://github.com/zztttt/LeetCode/tree/master/0442.Find%20All%20Duplicates%20in%20an%20Array)  
 
 ## Two Points
 [0019.RemoveNthNodeFromEndOfList](https://github.com/zztttt/LeetCode/tree/master/0019.RemoveNthNodeFromEndOfList)  
