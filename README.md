@@ -42,7 +42,8 @@
 [0069. Sqrt(x)](https://github.com/zztttt/LeetCode/tree/master/0069.%20Sqrt(x))  
 [0162. Find Peak Element](https://github.com/zztttt/LeetCode/tree/master/0162.%20Find%20Peak%20Element)  
 TODO[0235. Lowest Common Ancestor of a Binary Search Tree]()  
-[0240. Search a 2D Matrix II](https://github.com/zztttt/LeetCode/tree/master/0240.%20Search%20a%202D%20Matrix%20II)
+[0240. Search a 2D Matrix II](https://github.com/zztttt/LeetCode/tree/master/0240.%20Search%20a%202D%20Matrix%20II)  
+[0374.Guess Number Higher or Lower](https://github.com/zztttt/LeetCode/tree/master/0374.Guess%20Number%20Higher%20or%20Lower)  
 
 ## Back Trace
 [0017.LetterCombinationOfAPhoneNumber](https://github.com/zztttt/LeetCode/tree/master/0017.LetterCombinationOfAPhoneNumber)  
