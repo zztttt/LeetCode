@@ -112,6 +112,10 @@ TODO[0061. Rotate List]()
 [0023. Merge k Sorted Lists](https://github.com/zztttt/LeetCode/tree/master/0023.%20Merge%20k%20Sorted%20Lists)  
 [0150. Evaluate Reverse Polish Notation](https://github.com/zztttt/LeetCode/tree/master/0150.%20Evaluate%20Reverse%20Polish%20Notation)  
 [0155. Min Stack](https://github.com/zztttt/LeetCode/tree/master/0155.%20Min%20Stack)  
+[0496.Next Greater Element I](https://github.com/zztttt/LeetCode/tree/master/0496.Next%20Greater%20Element%20I)  
+
+## Monotonic Stack
+[0496.Next Greater Element I](https://github.com/zztttt/LeetCode/tree/master/0496.Next%20Greater%20Element%20I)  
 
 ## Binary Tree
 [094.BinaryTreeInorderTraversal](https://github.com/zztttt/LeetCode/tree/master/0094.BinaryTreInorderTraversal)  
