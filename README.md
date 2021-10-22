@@ -137,6 +137,10 @@ TODO[0061. Rotate List]()
 [0003.LongestSubstringWithoutRepeatingCharacters](https://github.com/zztttt/LeetCode/tree/master/0003.LongestSubstringWithoutRepeatingCharacters)  
 [0978.Longest Turbulent Subarray](https://github.com/zztttt/LeetCode/tree/master/0978.Longest%20Turbulent%20Subarray)
 
+## CombinationOfDatastructure
+[0146. LRU Cache](https://github.com/zztttt/LeetCode/tree/master/0146.%20LRU%20Cache)  
+[0380.Insert Delete GetRandom O(1)](https://github.com/zztttt/LeetCode/tree/master/0380.Insert%20Delete%20GetRandom%20O(1))  
+
 
 ## Reference
 [https://www.cnblogs.com/yrbbest/tag/LeetCode/](https://www.cnblogs.com/yrbbest/tag/LeetCode/)
