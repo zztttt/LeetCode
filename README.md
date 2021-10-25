@@ -117,6 +117,9 @@ TODO[0061. Rotate List]()
 ## Monotonic Stack
 [0496.Next Greater Element I](https://github.com/zztttt/LeetCode/tree/master/0496.Next%20Greater%20Element%20I)  
 
+## Priority Queue
+[0451.Sort Characters By Frequency](https://github.com/zztttt/LeetCode/tree/master/0451.Sort%20Characters%20By%20Frequency)
+
 ## Binary Tree
 [094.BinaryTreeInorderTraversal](https://github.com/zztttt/LeetCode/tree/master/0094.BinaryTreInorderTraversal)  
 [098.ValidateBinarySearchTree](https://github.com/zztttt/LeetCode/tree/master/0098.ValidateBinarySearchTree)  
