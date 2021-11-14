@@ -81,6 +81,9 @@ TODO[0235. Lowest Common Ancestor of a Binary Search Tree]()
 ## N-sum
 [0001.TwoSum](https://github.com/zztttt/LeetCode/tree/master/0001.TwoSum)
 
+## Prefix Sum
+[1413.Minimum Value to Get Positive Step by Step Sum](https://github.com/zztttt/LeetCode/tree/master/1413.Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum)  
+
 ## Palindromic
 [0005.LongestPalindromicSubstring](https://github.com/zztttt/LeetCode/tree/master/0005.LongestPalindromicSubstring)  
 [0009.PalindromeNumber](https://github.com/zztttt/LeetCode/tree/master/0009.PalindromeNumber)  
