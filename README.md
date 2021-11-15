@@ -17,7 +17,8 @@
 [0279. Perfect Squares](https://github.com/zztttt/LeetCode/tree/master/0279.%20Perfect%20Squares)  
 [0300. Longest Increasing Subsequence](https://github.com/zztttt/LeetCode/tree/master/0300.%20Longest%20Increasing%20Subsequence)  
 [0322. Coin Change](https://github.com/zztttt/LeetCode/tree/master/0322.%20Coin%20Change)  
-[0334. Increasing Triplet Subsequence](https://github.com/zztttt/LeetCode/tree/master/0334.%20Increasing%20Triplet%20Subsequence)
+[0334. Increasing Triplet Subsequence](https://github.com/zztttt/LeetCode/tree/master/0334.%20Increasing%20Triplet%20Subsequence)  
+[0368.Largest Divisible Subset](https://github.com/zztttt/LeetCode/tree/master/0368.Largest%20Divisible%20Subset)  
 
 ## Greedy Algorithm
 [0055.JumpGame](https://github.com/zztttt/LeetCode/tree/master/0055.JumpGame)  
