@@ -54,7 +54,8 @@ TODO[0235. Lowest Common Ancestor of a Binary Search Tree]()
 [0131. Palindrome Partitioning](https://github.com/zztttt/LeetCode/tree/master/0131.%20Palindrome%20Partitioning)  
 [0089. Gray Code](https://github.com/zztttt/LeetCode/tree/master/0089.%20Gray%20Code)  
 [0212.Word Search II](https://github.com/zztttt/LeetCode/tree/master/0212.Word%20Search%20II)  
-[1239.Maximum Length of a Concatenated String with Unique Characters](https://github.com/zztttt/LeetCode/tree/master/1239.Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters)
+[1239.Maximum Length of a Concatenated String with Unique Characters](https://github.com/zztttt/LeetCode/tree/master/1239.Maximum%20Length%20of%20a%20Concatenated%20String%20with%20Unique%20Characters)  
+[1286.Iterator for Combination](https://github.com/zztttt/LeetCode/tree/master/1286.Iterator%20for%20Combination)  
 
 ## Sort
 [0004.medianOfSortedArray](https://github.com/zztttt/LeetCode/tree/master/0004.MedianOfTwoSortedArrays)  
@@ -80,6 +81,9 @@ TODO[0235. Lowest Common Ancestor of a Binary Search Tree]()
 
 ## N-sum
 [0001.TwoSum](https://github.com/zztttt/LeetCode/tree/master/0001.TwoSum)
+
+## Prefix Sum
+[1413.Minimum Value to Get Positive Step by Step Sum](https://github.com/zztttt/LeetCode/tree/master/1413.Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum)  
 
 ## Palindromic
 [0005.LongestPalindromicSubstring](https://github.com/zztttt/LeetCode/tree/master/0005.LongestPalindromicSubstring)  
@@ -142,9 +146,9 @@ TODO[0061. Rotate List]()
 [0003.LongestSubstringWithoutRepeatingCharacters](https://github.com/zztttt/LeetCode/tree/master/0003.LongestSubstringWithoutRepeatingCharacters)  
 [0978.Longest Turbulent Subarray](https://github.com/zztttt/LeetCode/tree/master/0978.Longest%20Turbulent%20Subarray)
 
-## CombinationOfDatastructure
+## Combination Of Datastructure
 [0146. LRU Cache](https://github.com/zztttt/LeetCode/tree/master/0146.%20LRU%20Cache)  
-[0380.Insert Delete GetRandom O(1)](https://github.com/zztttt/LeetCode/tree/master/0380.Insert%20Delete%20GetRandom%20O(1))  
+[0380. Insert Delete GetRandom O(1)](https://github.com/zztttt/LeetCode/tree/master/0380.Insert%20Delete%20GetRandom%20O(1))  
 
 
 ## Reference
