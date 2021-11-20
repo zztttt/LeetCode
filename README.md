@@ -45,6 +45,7 @@
 TODO[0235. Lowest Common Ancestor of a Binary Search Tree]()  
 [0240. Search a 2D Matrix II](https://github.com/zztttt/LeetCode/tree/master/0240.%20Search%20a%202D%20Matrix%20II)  
 [0374.Guess Number Higher or Lower](https://github.com/zztttt/LeetCode/tree/master/0374.Guess%20Number%20Higher%20or%20Lower)  
+[0540.Single Element in a Sorted Array](https://github.com/zztttt/LeetCode/tree/master/0540.Single%20Element%20in%20a%20Sorted%20Array)  
 
 ## Back Trace
 [0017.LetterCombinationOfAPhoneNumber](https://github.com/zztttt/LeetCode/tree/master/0017.LetterCombinationOfAPhoneNumber)  
