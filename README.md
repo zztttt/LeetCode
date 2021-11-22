@@ -145,6 +145,7 @@ TODO[0061. Rotate List]()
 [0226.Invert Binary Tree](https://github.com/zztttt/LeetCode/tree/master/0226.Invert%20Binary%20Tree)  
 [0993.Cousins in Binary Tree](https://github.com/zztttt/LeetCode/tree/master/0993.Cousins%20in%20Binary%20Tree)  
 [0222.Count Complete Tree Nodes](https://github.com/zztttt/LeetCode/tree/master/0222.Count%20Complete%20Tree%20Nodes)  
+[0450.Delete Node in a BST](https://github.com/zztttt/LeetCode/tree/master/0450.Delete%20Node%20in%20a%20BST)  
 [1008.Construct Binary Search Tree from Preorder Traversal](https://github.com/zztttt/LeetCode/tree/master/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal)
 
 
