@@ -42,7 +42,7 @@
 [0050. Pow(x, n)](https://github.com/zztttt/LeetCode/tree/master/0050.%20Pow(x%2C%20n))  
 [0069. Sqrt(x)](https://github.com/zztttt/LeetCode/tree/master/0069.%20Sqrt(x))  
 [0162. Find Peak Element](https://github.com/zztttt/LeetCode/tree/master/0162.%20Find%20Peak%20Element)  
-TODO[0235. Lowest Common Ancestor of a Binary Search Tree]()  
+TODO[0235. Lowest Common Ancestor of a Binary Search Tree]()  Bit
 [0240. Search a 2D Matrix II](https://github.com/zztttt/LeetCode/tree/master/0240.%20Search%20a%202D%20Matrix%20II)  
 [0374.Guess Number Higher or Lower](https://github.com/zztttt/LeetCode/tree/master/0374.Guess%20Number%20Higher%20or%20Lower)  
 [0540.Single Element in a Sorted Array](https://github.com/zztttt/LeetCode/tree/master/0540.Single%20Element%20in%20a%20Sorted%20Array)  
@@ -86,6 +86,10 @@ TODO[0235. Lowest Common Ancestor of a Binary Search Tree]()
 
 ## Prefix Sum
 [1413.Minimum Value to Get Positive Step by Step Sum](https://github.com/zztttt/LeetCode/tree/master/1413.Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum)  
+
+## Bit Manipulation
+[0136. Single Number](https://github.com/zztttt/LeetCode/tree/master/0136.%20Single%20Number)
+[0260.Single Number III](https://github.com/zztttt/LeetCode/tree/master/0260.Single%20Number%20III)
 
 ## Palindromic
 [0005.LongestPalindromicSubstring](https://github.com/zztttt/LeetCode/tree/master/0005.LongestPalindromicSubstring)  
