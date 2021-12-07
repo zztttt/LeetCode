@@ -88,7 +88,8 @@ TODO[0235. Lowest Common Ancestor of a Binary Search Tree]()  Bit
 [1413.Minimum Value to Get Positive Step by Step Sum](https://github.com/zztttt/LeetCode/tree/master/1413.Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum)  
 
 ## Bit Manipulation
-[0136. Single Number](https://github.com/zztttt/LeetCode/tree/master/0136.%20Single%20Number)
+[0136. Single Number](https://github.com/zztttt/LeetCode/tree/master/0136.%20Single%20Number)  
+[0137.Single Number II](https://github.com/zztttt/LeetCode/tree/master/0137.Single%20Number%20II)  
 [0260.Single Number III](https://github.com/zztttt/LeetCode/tree/master/0260.Single%20Number%20III)
 
 ## Palindromic
