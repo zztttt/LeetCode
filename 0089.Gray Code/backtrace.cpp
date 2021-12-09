@@ -12,7 +12,7 @@ public:
         if(ret.size() == (1 << n))
             return true;
         int cur = ret.back();
-        for(int i = 0; i < n; ++i){
+        for(int i = 0; i < 32; ++i){
             int next = cur ^ (1 << i);
             if(isVisited.find(next) == isVisited.end()){
                 isVisited.insert(next);
