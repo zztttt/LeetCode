@@ -20,6 +20,7 @@
 [0334. Increasing Triplet Subsequence](https://github.com/zztttt/LeetCode/tree/master/0334.%20Increasing%20Triplet%20Subsequence)  
 [0368.Largest Divisible Subset](https://github.com/zztttt/LeetCode/tree/master/0368.Largest%20Divisible%20Subset)  
 [0392. Is Subsequence](https://github.com/zztttt/LeetCode/tree/master/0392.%20Is%20Subsequence)  
+[0413. Arithmetic Slices](https://github.com/zztttt/LeetCode/tree/master/0413.%20Arithmetic%20Slices)  
 
 ## Greedy Algorithm
 [0055.JumpGame](https://github.com/zztttt/LeetCode/tree/master/0055.JumpGame)  
