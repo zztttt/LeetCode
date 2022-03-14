@@ -21,6 +21,7 @@
 [0368.Largest Divisible Subset](https://github.com/zztttt/LeetCode/tree/master/0368.Largest%20Divisible%20Subset)  
 [0392. Is Subsequence](https://github.com/zztttt/LeetCode/tree/master/0392.%20Is%20Subsequence)  
 [0413. Arithmetic Slices](https://github.com/zztttt/LeetCode/tree/master/0413.%20Arithmetic%20Slices)  
+[0799. Champagne Tower](https://github.com/zztttt/LeetCode/tree/master/0799.%20Champagne%20Tower)  
 
 ## Greedy Algorithm
 [0055.JumpGame](https://github.com/zztttt/LeetCode/tree/master/0055.JumpGame)  
