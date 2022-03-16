@@ -127,6 +127,7 @@ TODO[0061. Rotate List]()
 [0150. Evaluate Reverse Polish Notation](https://github.com/zztttt/LeetCode/tree/master/0150.%20Evaluate%20Reverse%20Polish%20Notation)  
 [0155. Min Stack](https://github.com/zztttt/LeetCode/tree/master/0155.%20Min%20Stack)  
 [0496.Next Greater Element I](https://github.com/zztttt/LeetCode/tree/master/0496.Next%20Greater%20Element%20I)  
+[0946. Validate Stack Sequences](https://github.com/zztttt/LeetCode/tree/master/0946.%20Validate%20Stack%20Sequences)  
 [1249. Minimum Remove to Make Valid Parentheses](https://github.com/zztttt/LeetCode/tree/master/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses)  
 
 ## Monotonic Stack

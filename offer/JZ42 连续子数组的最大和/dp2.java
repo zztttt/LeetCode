@@ -1,3 +1,4 @@
+import java.util.Arrays;
 public class Solution {
     public int FindGreatestSumOfSubArray(int[] v) {
         if(v.length == 0)
@@ -10,6 +11,6 @@ public class Solution {
             }
             ret = Math.max(ret, tmp);
         }
-        return ret;
+        return ret != 0? ret : Arrays.stream(v).max().getAsInt();
     }
 }
