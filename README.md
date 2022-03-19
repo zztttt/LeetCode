@@ -128,10 +128,12 @@ TODO[0061. Rotate List]()
 [0155. Min Stack](https://github.com/zztttt/LeetCode/tree/master/0155.%20Min%20Stack)  
 [0496.Next Greater Element I](https://github.com/zztttt/LeetCode/tree/master/0496.Next%20Greater%20Element%20I)  
 [0856. Score of Parentheses](https://github.com/zztttt/LeetCode/tree/master/0856.%20Score%20of%20Parentheses)  
+[0895. Maximum Frequency Stack](https://github.com/zztttt/LeetCode/tree/master/0895.%20Maximum%20Frequency%20Stack)  
 [0946. Validate Stack Sequences](https://github.com/zztttt/LeetCode/tree/master/0946.%20Validate%20Stack%20Sequences)  
 [1249. Minimum Remove to Make Valid Parentheses](https://github.com/zztttt/LeetCode/tree/master/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses)  
 
 ## Monotonic Stack
+[0316. Remove Duplicate Letters](https://github.com/zztttt/LeetCode/tree/master/0316.%20Remove%20Duplicate%20Letters)  
 [0496.Next Greater Element I](https://github.com/zztttt/LeetCode/tree/master/0496.Next%20Greater%20Element%20I)  
 
 ## Priority Queue
