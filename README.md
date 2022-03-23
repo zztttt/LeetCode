@@ -28,6 +28,7 @@
 [0094.BinaryTreeInorderTraversal](https://github.com/zztttt/LeetCode/tree/master/0094.BinaryTreInorderTraversal)  
 [0122. Best Time to Buy and Sell Stock II](https://github.com/zztttt/LeetCode/tree/master/0122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II)  
 [0134. Gas Station](https://github.com/zztttt/LeetCode/tree/master/0134.%20Gas%20Station)  
+[0991. Broken Calculator](https://github.com/zztttt/LeetCode/tree/master/0991.%20Broken%20Calculator)  
 
 ## Divide and Conquer
 [0014.LongestCommonPrefix](https://github.com/zztttt/LeetCode/tree/master/0014.LongestCommonPrefix)
@@ -163,7 +164,10 @@ TODO[0061. Rotate List]()
 [0337. House Robber III](https://github.com/zztttt/LeetCode/tree/master/0337.%20House%20Robber%20III)  
 [0450.Delete Node in a BST](https://github.com/zztttt/LeetCode/tree/master/0450.Delete%20Node%20in%20a%20BST)  
 [0993.Cousins in Binary Tree](https://github.com/zztttt/LeetCode/tree/master/0993.Cousins%20in%20Binary%20Tree)  
-[1008.Construct Binary Search Tree from Preorder Traversal](https://github.com/zztttt/LeetCode/tree/master/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal)
+[1008.Construct Binary Search Tree from Preorder Traversal](https://github.com/zztttt/LeetCode/tree/master/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal)  
+
+## String
+[1663. Smallest String With A Given Numeric Value](https://github.com/zztttt/LeetCode/tree/master/1663.%20Smallest%20String%20With%20A%20Given%20Numeric%20Value)  
 
 
 ## Sliding Window
