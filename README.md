@@ -29,6 +29,7 @@
 [0122. Best Time to Buy and Sell Stock II](https://github.com/zztttt/LeetCode/tree/master/0122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II)  
 [0134. Gas Station](https://github.com/zztttt/LeetCode/tree/master/0134.%20Gas%20Station)  
 [0991. Broken Calculator](https://github.com/zztttt/LeetCode/tree/master/0991.%20Broken%20Calculator)  
+[1029. Two City Scheduling](https://github.com/zztttt/LeetCode/tree/master/1029.%20Two%20City%20Scheduling)  
 
 ## Divide and Conquer
 [0014.LongestCommonPrefix](https://github.com/zztttt/LeetCode/tree/master/0014.LongestCommonPrefix)
