@@ -70,7 +70,8 @@ TODO[0235. Lowest Common Ancestor of a Binary Search Tree]()  Bit
 [0075. Sort Colors](https://github.com/zztttt/LeetCode/tree/master/0075.%20Sort%20Colors)  
 [0088. Merge Sorted Array](https://github.com/zztttt/LeetCode/tree/master/0088.%20Merge%20Sorted%20Array)  
 [0148. Sort List](https://github.com/zztttt/LeetCode/tree/master/0148.%20Sort%20List)  
-[0179. Largest Number](https://github.com/zztttt/LeetCode/tree/master/0179.%20Largest%20Number)
+[0179. Largest Number](https://github.com/zztttt/LeetCode/tree/master/0179.%20Largest%20Number)  
+[0704. Binary Search](https://github.com/zztttt/LeetCode/tree/master/0704.%20Binary%20Search)  
 
 ## In-place
 [0026. Remove Duplicates from Sorted Array](https://github.com/zztttt/LeetCode/tree/master/0026.%20Remove%20Duplicates%20from%20Sorted%20Array)  
