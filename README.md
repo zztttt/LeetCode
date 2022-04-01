@@ -73,6 +73,10 @@ TODO[0235. Lowest Common Ancestor of a Binary Search Tree]()  Bit
 [0179. Largest Number](https://github.com/zztttt/LeetCode/tree/master/0179.%20Largest%20Number)  
 [0704. Binary Search](https://github.com/zztttt/LeetCode/tree/master/0704.%20Binary%20Search)  
 
+## Search
+[0033. Search in Rotated Sorted Array](https://github.com/zztttt/LeetCode/tree/master/0033.%20Search%20in%20Rotated%20Sorted%20Array)  
+[0081. Search in Rotated Sorted Array II](https://github.com/zztttt/LeetCode/tree/master/0081.%20Search%20in%20Rotated%20Sorted%20Array%20II)  
+
 ## In-place
 [0026. Remove Duplicates from Sorted Array](https://github.com/zztttt/LeetCode/tree/master/0026.%20Remove%20Duplicates%20from%20Sorted%20Array)  
 [0073. Set Matrix Zeroes](https://github.com/zztttt/LeetCode/tree/master/0073.%20Set%20Matrix%20Zeroes)  
@@ -170,6 +174,7 @@ TODO[0061. Rotate List]()
 [1008.Construct Binary Search Tree from Preorder Traversal](https://github.com/zztttt/LeetCode/tree/master/1008.%20Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal)  
 
 ## String
+[0344. Reverse String](https://github.com/zztttt/LeetCode/tree/master/0344.%20Reverse%20String)  
 [1663. Smallest String With A Given Numeric Value](https://github.com/zztttt/LeetCode/tree/master/1663.%20Smallest%20String%20With%20A%20Given%20Numeric%20Value)  
 
 
