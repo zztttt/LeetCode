@@ -153,6 +153,7 @@ TODO[0061. Rotate List]()
 
 ## Monotonic Stack
 [0316. Remove Duplicate Letters](https://github.com/zztttt/LeetCode/tree/master/0316.%20Remove%20Duplicate%20Letters)  
+[0456.132Pattern](https://github.com/zztttt/LeetCode/tree/master/0456.132Pattern)  
 [0496.Next Greater Element I](https://github.com/zztttt/LeetCode/tree/master/0496.Next%20Greater%20Element%20I)  
 [0503. Next Greater Element II](https://github.com/zztttt/LeetCode/tree/master/0503.%20Next%20Greater%20Element%20II)  
 
