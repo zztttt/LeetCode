@@ -1,6 +1,7 @@
 ## Dynamic Programming
 [0005.LongestPalindromicSubstring](https://github.com/zztttt/LeetCode/tree/master/0005.LongestPalindromicSubstring)  
 [0011.ContainerWithMostWater](https://github.com/zztttt/LeetCode/tree/master/0011.ContainerWithMostWater)  
+[0032. Longest Valid Parentheses](https://github.com/zztttt/LeetCode/tree/master/0032.%20Longest%20Valid%20Parentheses)  
 [0042.Trapping Rain Water](https://github.com/zztttt/LeetCode/tree/master/0042.Trapping%20Rain%20Water)  
 [0044.Wildcard Matching](https://github.com/zztttt/LeetCode/tree/master/0044.%20Wildcard%20Matching)  
 [0053. Maximum Subarray](https://github.com/zztttt/LeetCode/tree/master/0053.%20Maximum%20Subarray)  
