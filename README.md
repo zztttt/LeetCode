@@ -19,6 +19,7 @@
 [0300. Longest Increasing Subsequence](https://github.com/zztttt/LeetCode/tree/master/0300.%20Longest%20Increasing%20Subsequence)  
 [0322. Coin Change](https://github.com/zztttt/LeetCode/tree/master/0322.%20Coin%20Change)  
 [0334. Increasing Triplet Subsequence](https://github.com/zztttt/LeetCode/tree/master/0334.%20Increasing%20Triplet%20Subsequence)  
+[0354. Russian Doll Envelopes](https://github.com/zztttt/LeetCode/tree/master/0354.%20Russian%20Doll%20Envelopes)  
 [0368.Largest Divisible Subset](https://github.com/zztttt/LeetCode/tree/master/0368.Largest%20Divisible%20Subset)  
 [0392. Is Subsequence](https://github.com/zztttt/LeetCode/tree/master/0392.%20Is%20Subsequence)  
 [0413. Arithmetic Slices](https://github.com/zztttt/LeetCode/tree/master/0413.%20Arithmetic%20Slices)  
@@ -111,6 +112,7 @@ TODO[0235. Lowest Common Ancestor of a Binary Search Tree]()  Bit
 ## Bit Manipulation
 [0136. Single Number](https://github.com/zztttt/LeetCode/tree/master/0136.%20Single%20Number)  
 [0137.Single Number II](https://github.com/zztttt/LeetCode/tree/master/0137.Single%20Number%20II)  
+[0191. Number of 1 Bits](https://github.com/zztttt/LeetCode/tree/master/0191.%20Number%20of%201%20Bits)  
 [0260.Single Number III](https://github.com/zztttt/LeetCode/tree/master/0260.Single%20Number%20III)
 
 ## Palindromic
