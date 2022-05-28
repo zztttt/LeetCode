@@ -113,7 +113,9 @@ TODO[0235. Lowest Common Ancestor of a Binary Search Tree]()  Bit
 [0136. Single Number](https://github.com/zztttt/LeetCode/tree/master/0136.%20Single%20Number)  
 [0137.Single Number II](https://github.com/zztttt/LeetCode/tree/master/0137.Single%20Number%20II)  
 [0191. Number of 1 Bits](https://github.com/zztttt/LeetCode/tree/master/0191.%20Number%20of%201%20Bits)  
-[0260.Single Number III](https://github.com/zztttt/LeetCode/tree/master/0260.Single%20Number%20III)
+[0260.Single Number III](https://github.com/zztttt/LeetCode/tree/master/0260.Single%20Number%20III)  
+[0268. Missing Number](https://github.com/zztttt/LeetCode/tree/master/0268.%20Missing%20Number)  
+[1342. Number of Steps to Reduce a Number to Zero](https://github.com/zztttt/LeetCode/tree/master/1342.%20Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero)  
 
 ## Palindromic
 [0005.LongestPalindromicSubstring](https://github.com/zztttt/LeetCode/tree/master/0005.LongestPalindromicSubstring)  
