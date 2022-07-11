@@ -62,6 +62,7 @@ TODO[0235. Lowest Common Ancestor of a Binary Search Tree]()  Bit
 [0017.LetterCombinationOfAPhoneNumber](https://github.com/zztttt/LeetCode/tree/master/0017.LetterCombinationOfAPhoneNumber)  
 [0022. Generate Parentheses](https://github.com/zztttt/LeetCode/tree/master/0022.%20Generate%20Parentheses)  
 [0046. Permutations](https://github.com/zztttt/LeetCode/tree/master/0046.%20Permutations)  
+[0051. N-Queens](https://github.com/zztttt/LeetCode/tree/master/0051.%20N-Queens)  
 [0078. Subsets](https://github.com/zztttt/LeetCode/tree/master/0078.%20Subsets)  
 [0079. Word Search](https://github.com/zztttt/LeetCode/tree/master/0079.%20Word%20Search)  
 [0131. Palindrome Partitioning](https://github.com/zztttt/LeetCode/tree/master/0131.%20Palindrome%20Partitioning)  
