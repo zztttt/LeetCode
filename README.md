@@ -158,11 +158,13 @@ TODO[0061. Rotate List]()
 [0946. Validate Stack Sequences](https://github.com/zztttt/LeetCode/tree/master/0946.%20Validate%20Stack%20Sequences)  
 [1249. Minimum Remove to Make Valid Parentheses](https://github.com/zztttt/LeetCode/tree/master/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses)  
 
-## Monotonic Stack
+## Monotonic Stack && Queue
+[0239. Sliding Window Maximum](https://github.com/zztttt/LeetCode/tree/master/0239.%20Sliding%20Window%20Maximum) 
 [0316. Remove Duplicate Letters](https://github.com/zztttt/LeetCode/tree/master/0316.%20Remove%20Duplicate%20Letters)  
 [0456.132Pattern](https://github.com/zztttt/LeetCode/tree/master/0456.132Pattern)  
 [0496.Next Greater Element I](https://github.com/zztttt/LeetCode/tree/master/0496.Next%20Greater%20Element%20I)  
 [0503. Next Greater Element II](https://github.com/zztttt/LeetCode/tree/master/0503.%20Next%20Greater%20Element%20II)  
+[1696. Jump Game VI](https://github.com/zztttt/LeetCode/tree/master/1696.%20Jump%20Game%20VI)  
 
 ## Priority Queue
 [0451.Sort Characters By Frequency](https://github.com/zztttt/LeetCode/tree/master/0451.Sort%20Characters%20By%20Frequency)  
@@ -203,7 +205,9 @@ TODO[0061. Rotate List]()
 
 ## Sliding Window
 [0003. Longest Substring Without Repeating Characters](https://github.com/zztttt/LeetCode/tree/master/0003.LongestSubstringWithoutRepeatingCharacters)  
-[0978.Longest Turbulent Subarray](https://github.com/zztttt/LeetCode/tree/master/0978.Longest%20Turbulent%20Subarray)
+[0239. Sliding Window Maximum](https://github.com/zztttt/LeetCode/tree/master/0239.%20Sliding%20Window%20Maximum)  
+[0978.Longest Turbulent Subarray](https://github.com/zztttt/LeetCode/tree/master/0978.Longest%20Turbulent%20Subarray)  
+[1696. Jump Game VI](https://github.com/zztttt/LeetCode/tree/master/1696.%20Jump%20Game%20VI)  
 
 ## Combination Of Datastructure
 [0146. LRU Cache](https://github.com/zztttt/LeetCode/tree/master/0146.%20LRU%20Cache)  
