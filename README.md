@@ -42,6 +42,7 @@
 [0127. Word Ladder](https://github.com/zztttt/LeetCode/tree/master/0127.%20Word%20Ladder)  
 [0130. Surrounded Regions](https://github.com/zztttt/LeetCode/tree/master/0130.%20Surrounded%20Regions)  
 [0138. Copy List with Random Pointer](https://github.com/zztttt/LeetCode/tree/master/0138.%20Copy%20List%20with%20Random%20Pointer)    
+[0199. Binary Tree Right Side View](https://github.com/zztttt/LeetCode/tree/master/0199.%20Binary%20Tree%20Right%20Side%20View)  
 [0200. Number of Islands](https://github.com/zztttt/LeetCode/tree/master/0200.%20Number%20of%20Islands)  
 [0410. Split Array Largest Sum](https://github.com/zztttt/LeetCode/tree/master/0410.%20Split%20Array%20Largest%20Sum)  
 [0437.Path Sum III](https://github.com/zztttt/LeetCode/tree/master/0437.Path%20Sum%20III)  
@@ -62,6 +63,7 @@ TODO[0235. Lowest Common Ancestor of a Binary Search Tree]()  Bit
 [0017.LetterCombinationOfAPhoneNumber](https://github.com/zztttt/LeetCode/tree/master/0017.LetterCombinationOfAPhoneNumber)  
 [0022. Generate Parentheses](https://github.com/zztttt/LeetCode/tree/master/0022.%20Generate%20Parentheses)  
 [0046. Permutations](https://github.com/zztttt/LeetCode/tree/master/0046.%20Permutations)  
+[0051. N-Queens](https://github.com/zztttt/LeetCode/tree/master/0051.%20N-Queens)  
 [0078. Subsets](https://github.com/zztttt/LeetCode/tree/master/0078.%20Subsets)  
 [0079. Word Search](https://github.com/zztttt/LeetCode/tree/master/0079.%20Word%20Search)  
 [0131. Palindrome Partitioning](https://github.com/zztttt/LeetCode/tree/master/0131.%20Palindrome%20Partitioning)  
@@ -157,11 +159,13 @@ TODO[0061. Rotate List]()
 [0946. Validate Stack Sequences](https://github.com/zztttt/LeetCode/tree/master/0946.%20Validate%20Stack%20Sequences)  
 [1249. Minimum Remove to Make Valid Parentheses](https://github.com/zztttt/LeetCode/tree/master/1249.%20Minimum%20Remove%20to%20Make%20Valid%20Parentheses)  
 
-## Monotonic Stack
+## Monotonic Stack && Queue
+[0239. Sliding Window Maximum](https://github.com/zztttt/LeetCode/tree/master/0239.%20Sliding%20Window%20Maximum) 
 [0316. Remove Duplicate Letters](https://github.com/zztttt/LeetCode/tree/master/0316.%20Remove%20Duplicate%20Letters)  
 [0456.132Pattern](https://github.com/zztttt/LeetCode/tree/master/0456.132Pattern)  
 [0496.Next Greater Element I](https://github.com/zztttt/LeetCode/tree/master/0496.Next%20Greater%20Element%20I)  
 [0503. Next Greater Element II](https://github.com/zztttt/LeetCode/tree/master/0503.%20Next%20Greater%20Element%20II)  
+[1696. Jump Game VI](https://github.com/zztttt/LeetCode/tree/master/1696.%20Jump%20Game%20VI)  
 
 ## Priority Queue
 [0451.Sort Characters By Frequency](https://github.com/zztttt/LeetCode/tree/master/0451.Sort%20Characters%20By%20Frequency)  
@@ -184,6 +188,7 @@ TODO[0061. Rotate List]()
 [0124. Binary Tree Maximum Path Sum](https://github.com/zztttt/LeetCode/tree/master/0124.%20Binary%20Tree%20Maximum%20Path%20Sum)  
 [0144. Binary Tree Preorder Traversal](https://github.com/zztttt/LeetCode/tree/master/0144.%20Binary%20Tree%20Preorder%20Traversal)  
 [0145. Binary Tree Postorder Traversal](https://github.com/zztttt/LeetCode/tree/master/0145.%20Binary%20Tree%20Postorder%20Traversal)  
+[0199. Binary Tree Right Side View](https://github.com/zztttt/LeetCode/tree/master/0199.%20Binary%20Tree%20Right%20Side%20View)  
 [0230. Kth Smallest Element in a BST](https://github.com/zztttt/LeetCode/tree/master/0230.%20Kth%20Smallest%20Element%20in%20a%20BST)  
 [0226.Invert Binary Tree](https://github.com/zztttt/LeetCode/tree/master/0226.Invert%20Binary%20Tree)  
 [0222.Count Complete Tree Nodes](https://github.com/zztttt/LeetCode/tree/master/0222.Count%20Complete%20Tree%20Nodes)  
@@ -202,7 +207,9 @@ TODO[0061. Rotate List]()
 
 ## Sliding Window
 [0003. Longest Substring Without Repeating Characters](https://github.com/zztttt/LeetCode/tree/master/0003.LongestSubstringWithoutRepeatingCharacters)  
-[0978.Longest Turbulent Subarray](https://github.com/zztttt/LeetCode/tree/master/0978.Longest%20Turbulent%20Subarray)
+[0239. Sliding Window Maximum](https://github.com/zztttt/LeetCode/tree/master/0239.%20Sliding%20Window%20Maximum)  
+[0978.Longest Turbulent Subarray](https://github.com/zztttt/LeetCode/tree/master/0978.Longest%20Turbulent%20Subarray)  
+[1696. Jump Game VI](https://github.com/zztttt/LeetCode/tree/master/1696.%20Jump%20Game%20VI)  
 
 ## Combination Of Datastructure
 [0146. LRU Cache](https://github.com/zztttt/LeetCode/tree/master/0146.%20LRU%20Cache)  
