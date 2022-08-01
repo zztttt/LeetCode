@@ -1,0 +1,39 @@
+class Solution {
+public:
+    class less{
+        public:
+            bool operator()(int a, int b){
+                return a < b;
+            }
+    };
+    int fillCups(vector<int>& amount) {
+        priority_queue<int, vector<int>, less> queue;
+        for(const int& i: amount){
+            if(i > 0)
+                queue.push(i);
+        }
+        
+        int ret = 0;
+        while(queue.size() >= 2){
+            int val1 = queue.top();
+            queue.pop();
+            int val2 = queue.top();
+            queue.pop();
+            //cout << "v1:" << val1 << ",val2:" << val2 << endl;
+            val1--;
+            val2--;
+            ret++;
+            if(val1 > 0){
+                queue.push(val1);
+            }
+            if(val2 > 0){
+                queue.push(val2);
+            }
+        }
+        int remain = 0;
+        if(queue.size() > 0){
+            remain += queue.top();
+        }
+        return ret + remain;
+    }
+};
