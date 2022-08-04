@@ -110,6 +110,7 @@ TODO[0235. Lowest Common Ancestor of a Binary Search Tree]()  Bit
 [0304. Range Sum Query 2D - Immutable](https://github.com/zztttt/LeetCode/tree/master/0304.%20Range%20Sum%20Query%202D%20-%20Immutable)  
 [0410. Split Array Largest Sum](https://github.com/zztttt/LeetCode/tree/master/0410.%20Split%20Array%20Largest%20Sum)  
 [0560.Subarray Sum Equals K](https://github.com/zztttt/LeetCode/tree/master/0560.Subarray%20Sum%20Equals%20K)  
+[1074. Number of Submatrices That Sum to Target](https://github.com/zztttt/LeetCode/tree/master/1074.%20Number%20of%20Submatrices%20That%20Sum%20to%20Target)  
 [1413.Minimum Value to Get Positive Step by Step Sum](https://github.com/zztttt/LeetCode/tree/master/1413.Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum)  
 
 ## Bit Manipulation
@@ -185,6 +186,7 @@ TODO[0061. Rotate List]()
 [0105. Construct Binary Tree from Preorder and Inorder Traversal](https://github.com/zztttt/LeetCode/tree/master/0105.%20Construct%20Binary%20Tree%20from%20Preorder%20and%20Inorder%20Traversal)  
 [0106.Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/zztttt/LeetCode/tree/master/0106.Construct%20Binary%20Tree%20from%20Inorder%20and%20Postorder%20Traversal)  
 [0108. Convert Sorted Array to Binary Search Tree](https://github.com/zztttt/LeetCode/tree/master/0108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree)  
+[0114. Flatten Binary Tree to Linked List](https://github.com/zztttt/LeetCode/tree/master/0114.%20Flatten%20Binary%20Tree%20to%20Linked%20List)  
 [0116. Populating Next Right Pointers in Each Node](https://github.com/zztttt/LeetCode/tree/master/0116.%20Populating%20Next%20Right%20Pointers%20in%20Each%20Node)  
 [0124. Binary Tree Maximum Path Sum](https://github.com/zztttt/LeetCode/tree/master/0124.%20Binary%20Tree%20Maximum%20Path%20Sum)  
 [0144. Binary Tree Preorder Traversal](https://github.com/zztttt/LeetCode/tree/master/0144.%20Binary%20Tree%20Preorder%20Traversal)  
@@ -211,6 +213,9 @@ TODO[0061. Rotate List]()
 [0239. Sliding Window Maximum](https://github.com/zztttt/LeetCode/tree/master/0239.%20Sliding%20Window%20Maximum)  
 [0978.Longest Turbulent Subarray](https://github.com/zztttt/LeetCode/tree/master/0978.Longest%20Turbulent%20Subarray)  
 [1696. Jump Game VI](https://github.com/zztttt/LeetCode/tree/master/1696.%20Jump%20Game%20VI)  
+
+## Word Count
+[0916.Word Subsets](https://github.com/zztttt/LeetCode/tree/master/0916.Word%20Subsets)  
 
 ## Combination Of Datastructure
 [0146. LRU Cache](https://github.com/zztttt/LeetCode/tree/master/0146.%20LRU%20Cache)  

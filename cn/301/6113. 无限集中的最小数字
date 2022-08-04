@@ -1,0 +1,55 @@
+class Solution {
+public:
+    bool canChange(string start, string target) {
+        int len = start.size();
+        vector<char> startL, targetL;
+        vector<char> startRemains, targetRemains;
+        int firstR1 = len, firstR2 = len, lastL1 = -1, lastL2 = -1;
+        for(int i = 0; i < len; ++i){
+            if(firstR1 == len && start[i] == 'R'){
+                firstR1 = i;
+            }
+            if(firstR2 == len && target[i] == 'R'){
+                firstR2 = i;
+            }
+            if(start[i] != '_'){
+                if(i >= firstR1){
+                    startRemains.push_back(start[i]);
+                }else{
+                    startL.push_back(start[i]);
+                    lastL1 = i;
+                }
+            }
+            if(target[i] != '_'){
+                if(i >= firstR2){
+                    targetRemains.push_back(target[i]);
+                }else{
+                    targetL.push_back(target[i]);
+                    lastL2 = i;
+                }
+            }
+        }
+        
+        // cout << startL.size() << ":" << targetL.size() << endl;
+        // cout << startRemains.size() << ":" << targetRemains.size() << endl;
+        // cout << firstR1 << ":" << firstR2 << endl;
+        // cout << lastL1 << ":" << lastL2 << endl;
+        if(startL.size() != targetL.size() 
+            || startRemains.size() != targetRemains.size() 
+            || firstR1 > firstR2 
+            || lastL1 < lastL2)
+            return false;
+        int len1 = startL.size(), len2 = startRemains.size();
+        for(int p = 0; p < len1; ++p){
+            //cout << startL[p] << ":" << targetL[p] << endl;
+            if(startL[p]  != targetL[p])
+                return false;
+        }
+        for(int p = 0; p < len2; ++p){
+            //cout << startRemains[p] << "::" << targetRemains[p] << endl;
+            if(startRemains[p] != targetRemains[p])
+                return false;
+        }
+        return true;
+    }
+};
